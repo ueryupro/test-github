@@ -2,3 +2,6 @@ abcdef　編集しました。
 
 編集しました、、、、。。
 
+const abc = "test";
+
+console.log(abc);
